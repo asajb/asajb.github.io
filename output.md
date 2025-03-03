@@ -1,3 +1,6 @@
+---
+title: My Chess Openings Page
+---
 # Chess Openings
 
 
